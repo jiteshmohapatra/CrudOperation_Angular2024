@@ -1,6 +1,6 @@
 # Angular-CRUD
 
-<img align= "right" src="https://github.com/IIKirito-kunII/Bharat-Intern/blob/62bfd1bcf1953abb08d83864a6df5761fc884f7c/1677698736997.jpeg" width="300" height="200" align-items="right">
+<img align= "right" src="crudangular.png" width="300" height="200" align-items="right">
 
 
 # CrudOperation
