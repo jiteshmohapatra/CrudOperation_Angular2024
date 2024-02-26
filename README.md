@@ -1,3 +1,8 @@
+# Angular-CRUD
+
+<img align= "right" src="https://github.com/IIKirito-kunII/Bharat-Intern/blob/62bfd1bcf1953abb08d83864a6df5761fc884f7c/1677698736997.jpeg" width="300" height="200" align-items="right">
+
+
 # CrudOperation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
